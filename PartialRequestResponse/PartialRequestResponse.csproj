@@ -6,7 +6,7 @@
 
     <ItemGroup>
       <PackageReference Include="Microsoft.AspNetCore.JsonPatch" Version="5.0.0-preview.3.20215.14" />
-      <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+      <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
       <PackageReference Include="PartialResponse.AspNetCore.Mvc.Formatters.Json" Version="5.1.0" />
     </ItemGroup>
 
